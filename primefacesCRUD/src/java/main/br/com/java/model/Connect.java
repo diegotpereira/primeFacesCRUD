@@ -26,7 +26,7 @@ public class Connect {
                e.printStackTrace();
          }
 
-         String url = "jdbc:mysql://localhost:3306/usuario";
+         String url = "jdbc:mysql://localhost:3306/dbusuario?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false";
          String user = "root";
          String password = "root";
          con = DriverManager.getConnection(url, user, password);
@@ -47,7 +47,7 @@ public class Connect {
                st = con.createStatement();
 
                PreparedStatement preparedStatement = con
-                   .prepareStatement("insert into usuario values (id, nome, senha, descricao, data_cadastro) values(?,?,?,?,?)");
+                   .prepareStatement("insert into usuario (id, nome, senha, descricao, data_cadastro) values(?,?,?,?,?)");
                preparedStatement.setInt(1, usuario.getId());
                preparedStatement.setString(2, usuario.getNome());
                preparedStatement.setString(3, usuario.getSenha());
