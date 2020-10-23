@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file-systems model-entity="FileSystems" workspace-home="./WebContent/WEB-INF">
+ <file-system NAME="lib-annotations-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\annotations-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina-ant.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina-ant.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina-ha.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina-ha.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina-ssi.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina-ssi.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina-storeconfig.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina-storeconfig.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina-tribes.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina-tribes.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-catalina.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\catalina.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-ecj-4.15.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\ecj-4.15.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-el-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\el-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jasper-el.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\jasper-el.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jasper.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\jasper.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jaspic-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\jaspic-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jsp-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\jsp-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-servlet-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\servlet-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-coyote.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-coyote.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-dbcp.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-dbcp.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-cs.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-cs.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-de.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-de.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-es.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-es.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-fr.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-fr.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-ja.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-ja.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-ko.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-ko.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-pt-BR.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-pt-BR.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-ru.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-ru.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-i18n-zh-CN.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-i18n-zh-CN.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-jdbc.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-jdbc.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-jni.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-jni.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-util-scan.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-util-scan.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-util.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-util.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-tomcat-websocket.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\tomcat-websocket.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-websocket-api.jar"
+  location="C:\Program Files\apache-tomcat-9.0.37-windows-x64\apache-tomcat-9.0.37\lib\websocket-api.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-mysql-connector-java-8.0.19.jar"
+  location="C:\Users\T.I\.m2\repository\mysql\mysql-connector-java\8.0.19\mysql-connector-java-8.0.19.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-protobuf-java-3.6.1.jar"
+  location="C:\Users\T.I\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-primefaces-5.1.jar"
+  location="C:\Users\T.I\.m2\repository\org\primefaces\primefaces\5.1\primefaces-5.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-javax.faces-2.1.13.jar"
+  location="C:\Users\T.I\.m2\repository\org\glassfish\javax.faces\2.1.13\javax.faces-2.1.13.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-cdi-api-1.2.jar"
+  location="C:\Users\T.I\.m2\repository\javax\enterprise\cdi-api\1.2\cdi-api-1.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-javax.el-api-3.0.0.jar"
+  location="C:\Users\T.I\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-javax.interceptor-api-1.2.jar"
+  location="C:\Users\T.I\.m2\repository\javax\interceptor\javax.interceptor-api\1.2\javax.interceptor-api-1.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-javax.inject-1.jar"
+  location="C:\Users\T.I\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="primefacesCRUD"
+  location="C:/Users/T.I/eclipse-workspace/primefacesCRUD" model-entity="FileSystemFolder"/>
+ <file-system NAME="WEB-INF" location="%workspace.home%" model-entity="FileSystemFolder"/>
+ <file-system NAME="WEB-ROOT" location="%workspace.home%/.." model-entity="FileSystemFolder"/>
+ <file-system NAME="lib" location="%workspace.home%/lib" model-entity="FileSystemFolder"/>
+ <file-system NAME="src"
+  location="%workspace.home%/../../src/java/resources" model-entity="FileSystemFolder"/>
+ <file-system NAME="src-1"
+  location="%workspace.home%/../../src/java/main" model-entity="FileSystemFolder"/>
+ <web model-entity="JstWeb"/>
+</file-systems>
